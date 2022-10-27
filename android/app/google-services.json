@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93412581177",
+    "project_id": "shoping-e-commerce-fad03",
+    "storage_bucket": "shoping-e-commerce-fad03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93412581177:android:405be2825abef2177b12e8",
+        "android_client_info": {
+          "package_name": "com.example.shoping_e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93412581177-bpnrkpelqgk6s58g7b9d2o254p93bru3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgBz8BiN5HUMunhC4eFR8RkQB_d9kRO3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93412581177-bpnrkpelqgk6s58g7b9d2o254p93bru3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
